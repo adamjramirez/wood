@@ -5,6 +5,10 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
+  path: config.toml
+  label: Footer
+  match: "**/*"
+- type: document
   path: content/contact/_index.md
   label: Contact
 - type: directory
