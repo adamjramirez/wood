@@ -1,4 +1,4 @@
-baseURL = "http://naturallycooked.com"
+baseURL = "https://naturallycooked.com"
 languageCode = "en-us"
 paginate = 6
 summaryLength = "10"
