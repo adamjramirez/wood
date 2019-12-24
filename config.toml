@@ -16,27 +16,27 @@ weight = 3
 home = ["HTML", "AMP", "RSS", "JSON"]
 page = ["HTML"]
 [params]
-author = "Themefisher"
+author = "In House Design"
 authorImage = "images/banner-img.png"
 contactFormAction = "#"
-copyright = "a theme by [themefisher.com](themefisher.com)"
+copyright = "Copyright Restaurants Cooking With Wood"
 description = "This is meta description"
 googleAnalitycsID = "Your ID"
 home = "Home"
 homeLayoutToggle = true
 logo = "images/logo.png"
-shortDescription = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
+shortDescription = "A listing of restaurants that cook with any type of wood product"
 [[params.footer.addresses]]
-address = "Sydney"
+address = "European Union"
 [[params.footer.addresses]]
-address = "6 rip carl Avenue CA 90733"
+address = "123 European Union Street"
 [[params.footer.contacts]]
-contactInfo = "Tel: +90 000 333 22"
+contactInfo = "For Restaurants: restaurants@cookingwithwood.com"
 [[params.footer.contacts]]
-contactInfo = "Mail: exmaple@ymail.com"
+contactInfo = "General Contact: info@cookingwithwood.com"
 [params.instafeed]
 accessToken = "4044026246.1677ed0.8896752506ed4402a0519d23b8f50a17"
-enable = true
+enable = false
 userID = "4044026246"
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
@@ -76,9 +76,3 @@ icon = "ti-facebook"
 [[params.social]]
 URL = "#"
 icon = "ti-twitter-alt"
-[[params.social]]
-URL = "#"
-icon = "ti-linkedin"
-[[params.social]]
-URL = "#"
-icon = "ti-github"
