@@ -3,7 +3,7 @@ languageCode = "en-us"
 paginate = 6
 summaryLength = "10"
 theme = "parsa-hugo"
-title = "Restaurants Cooking With Wood"
+title = "Restaurants Cooking With Wood - STAGE"
 [[menu.main]]
 URL = "/cities"
 name = "Cities"
