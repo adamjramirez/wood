@@ -5,6 +5,11 @@ fields:
 - type: text
   name: title
   label: title
+- name: main_image_gallery
+  type: image_gallery
+  config: {}
+  label: Main Image Gallery
+  description: Insert the main images from this listing
 - type: datetime
   name: date
   label: date
