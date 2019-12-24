@@ -5,6 +5,10 @@ summaryLength = "10"
 theme = "parsa-hugo"
 title = "Restaurants Cooking With Wood"
 [[menu.main]]
+URL = "/cities"
+name = "Cities"
+weight = "4"
+[[menu.main]]
 URL = "about"
 name = "About"
 weight = 2
