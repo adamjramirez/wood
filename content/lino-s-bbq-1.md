@@ -1,16 +1,17 @@
 +++
 categories = ["Food", "wood", "bbq"]
-date = 2019-12-25T09:46:10Z
-description = "Lino's BBQ cooks with wood"
+date = 2019-11-12T09:46:10Z
+description = "The Bird BBQ purity"
 draft = true
-image = "images/lino-pit.jpg"
+image = "images/bird.jpg"
 tags = ["Photos", "Food", "Wood"]
-title = "Lino's BBQ"
+title = "The Bird BBQ"
 type = "post"
 
 +++
-Lino's has been cooking with wood since 2017. All the meat here is cooked low and slow with a stick burner.
+For all fans of wood fire food, this is your dream here.
 
-![the wood at linos is split](/resources/lino-split.jpg "Lino Splitting Wood")
+The Bird BBQ is a purveyor of wood-fired, smoked perfection.  
+They can smoke anything in their hand-built smoker, over wood of course.
 
-I think we can all agree we are happy to know the meat here is cooked, only with wood.
+Using Brandenburg Oak, you can taste the heart that owner and head chef, Micha puts into his food.
