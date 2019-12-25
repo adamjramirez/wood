@@ -1,16 +1,17 @@
 +++
-categories = ["Food", "wood", "bbq"]
-date = 2019-12-25T09:46:10Z
-description = "Lino's BBQ cooks with wood"
-draft = true
-image = "images/lino-pit.jpg"
+categories = ["Food", "wood", "bbq", "thai"]
+date = 2019-12-02T09:46:10Z
+description = "Asian wood-fired cuisine"
+image = "images/khwan-logo.svg"
 tags = ["Photos", "Food", "Wood"]
-title = "Lino's BBQ"
+title = "Khwan"
 type = "post"
 
 +++
-Lino's has been cooking with wood since 2017. All the meat here is cooked low and slow with a stick burner.
+Khwan means smoke in Thai.
 
-![the wood at linos is split](/resources/lino-split.jpg "Lino Splitting Wood")
+Smoke is what they get from their wood-fired pit, that flavors their food so wonderfully.
 
-I think we can all agree we are happy to know the meat here is cooked, only with wood.
+![chicken at khwan](/static/Khwan-Berlin-Chicken.jpg "Chicken off the pit")
+
+Keep in mind, not all dishes come off of the pit.
