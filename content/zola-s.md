@@ -2,7 +2,6 @@
 categories = ["Food", "Pizza", "Wood"]
 date = 2019-08-16T08:46:10Z
 description = "Wood-Fired Neopolitan Pizza"
-draft = true
 image = "images/google_place_photo.jpg"
 tags = ["Photos", "Food", "Wood", "Pizza"]
 title = "Prometeo"
