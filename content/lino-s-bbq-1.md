@@ -2,7 +2,6 @@
 categories = ["Food", "wood", "bbq"]
 date = 2019-11-12T09:46:10Z
 description = "The Bird BBQ purity"
-draft = true
 image = "images/bird.jpg"
 tags = ["Photos", "Food", "Wood"]
 title = "The Bird BBQ"
