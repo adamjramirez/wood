@@ -22,6 +22,6 @@ menu:
 ---
 Aspendo's is one of the only Turkish restaurants employing a wood fueled oven to baken their in-house made bread.
 
-![aspendos in schoenberg](/resources/aspendo-store.jpg "Aspendo's Storefront")
+![](/images/aspendo-store.jpg)
 
 As you sit inside, waiting for your food, watch the baker closely as he prepares your _lahmacun_ by hand and bakes it in their wood-fired oven in front of your eyes.
