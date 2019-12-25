@@ -12,6 +12,6 @@ Khwan means smoke in Thai.
 
 Smoke is what they get from their wood-fired pit, that flavors their food so wonderfully.
 
-![chicken at khwan](/static/Khwan-Berlin-Chicken.jpg "Chicken off the pit")
+![chicken off khwans pit](images/Khwan-Berlin-Chicken.jpg "Chicken at Khwan")
 
 Keep in mind, not all dishes come off of the pit.
