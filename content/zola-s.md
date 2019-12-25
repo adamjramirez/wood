@@ -12,6 +12,6 @@ Another true to tradition, Neapolitan pizza - Prometeo
 
 Stefano Ferrara ovens are the tell-tale sign of a purist. Prometeo has imported their Ferrara from a small town near Napoli, called Quarto. It only burns wood.
 
-![](/static/google_place_pizza.jpg)
+![](/images/google_place_pizza.jpg)
 
 It was a conscious choice to use wood over gas, although gas would have been easier.
