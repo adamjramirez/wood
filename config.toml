@@ -27,7 +27,7 @@ copyright = "Restaurants Cooking With Wood"
 description = "This is meta description"
 googleAnalitycsID = "UA-155009140-1"
 home = "Home"
-homeLayoutToggle = true
+homeLayoutToggle = false
 logo = "images/logo.png"
 shortDescription = "A listing of restaurants that cook with any type of wood product"
 [[params.footer.addresses]]
