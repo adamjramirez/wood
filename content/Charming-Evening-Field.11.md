@@ -3,7 +3,7 @@ title: Zola's
 date: 2019-05-14T08:46:10.000+00:00
 description: Authentic Neapolitan Pizza
 type: post
-image: images/masonary-post/post-12.jpg
+image: images/Zola-logo.jpg
 categories:
 - Food
 - Pizza
