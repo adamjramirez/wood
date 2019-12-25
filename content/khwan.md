@@ -14,4 +14,4 @@ Smoke is what they get from their wood-fired pit, that flavors their food so won
 
 ![chicken off khwans pit](images/Khwan-Berlin-Chicken.jpg "Chicken at Khwan")
 
-Keep in mind, not all dishes come off of the pit.
+Keep in mind, not all dishes come off of the pit
