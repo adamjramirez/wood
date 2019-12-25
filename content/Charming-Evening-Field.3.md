@@ -3,12 +3,16 @@ title: Lino's BBQ
 date: 2019-12-25T10:46:10+01:00
 description: Lino's BBQ cooks with wood
 type: post
-image: images/masonary-post/post-4.jpg
+image: images/lino-pit.jpg
 categories:
 - Food
+- wood
+- bbq
 tags:
 - Photos
 - Food
+- Wood
+draft: true
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
