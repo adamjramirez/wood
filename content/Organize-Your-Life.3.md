@@ -3,7 +3,7 @@ title: Aspendo's
 date: 2019-10-27T10:46:10+01:00
 description: Aspendo's bakes with a wood-fired oven
 type: featured
-image: images/featured-post/post-4.jpg
+image: images/lahmacun-wood.jpg
 categories:
 - Food
 - Wood
