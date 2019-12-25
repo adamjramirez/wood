@@ -5,18 +5,13 @@ summaryLength = "10"
 theme = "parsa-hugo"
 title = "Restaurants Cooking With Wood"
 [[menu.main]]
-URL = "about"
-name = "About"
-weight = 2
-[[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 3
+weight = 2
 [[menu.main]]
-URL = "adam"
-name = "Adam"
-parent = "Contact"
-weight = 3
+URL = "about"
+name = "About"
+weight = 1
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 page = ["HTML"]
@@ -30,10 +25,6 @@ googleAnalitycsID = "UA-155009140-1"
 home = "Home"
 homeLayoutToggle = false
 logo = "images/logo.png"
-[params.main]
-title = "Eat food"
-subtitle="cooked with heart"
-shortDescription = "A listing of restaurants that cook with any type of wood product"
 [[params.footer.addresses]]
 address = "European Union"
 [[params.footer.addresses]]
@@ -46,6 +37,10 @@ contactInfo = "Contact us via email - info@naturallycooked.com"
 accessToken = "4044026246.1677ed0.8896752506ed4402a0519d23b8f50a17"
 enable = false
 userID = "4044026246"
+[params.main]
+shortDescription = "A listing of restaurants that cook with any type of wood product"
+subtitle = "cooked with heart"
+title = "Eat food"
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
