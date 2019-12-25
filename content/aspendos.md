@@ -13,11 +13,6 @@ tags:
 - Article
 - Food
 - Wood
-menu:
-  main:
-    URL: adam
-    parent: Contact
-    weight: 1
 
 ---
 Aspendo's is one of the only Turkish restaurants employing a wood fueled oven to baken their in-house made bread.
