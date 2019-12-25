@@ -19,6 +19,6 @@ Zola's is known for their outstanding pizza.
 
 Staying true to their Neapolitan roots, they blast their pizza in a **_wood_**-**_fired_** Stefano Ferrara **_oven_** imported from Naples.
 
-![wood fired oven at zola's pizza](/resources/zola-oven.jpg "Zola's wood fired oven")
+![](/images/zola-oven.jpg)
 
 No wonder it tastes so good.
