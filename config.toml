@@ -21,7 +21,7 @@ weight = 3
 home = ["HTML", "AMP", "RSS", "JSON"]
 page = ["HTML"]
 [params]
-author = "In House Design"
+author = "Naturally Cooked"
 authorImage = "images/banner-img.png"
 contactFormAction = "#"
 copyright = "Naturally Cooked"
@@ -30,6 +30,9 @@ googleAnalitycsID = "UA-155009140-1"
 home = "Home"
 homeLayoutToggle = false
 logo = "images/logo.png"
+[params.main]
+title = "Eat food"
+subtitle="cooked with heart"
 shortDescription = "A listing of restaurants that cook with any type of wood product"
 [[params.footer.addresses]]
 address = "European Union"
