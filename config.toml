@@ -78,6 +78,8 @@ URL = "plugins/search/search.js"
 enable = true
 [params.search]
 enable = true
+[params.socialbuttons]
+enabled = false
 [[params.social]]
 URL = "#"
 icon = "ti-facebook"
