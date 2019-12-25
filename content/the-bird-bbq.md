@@ -13,6 +13,6 @@ For all fans of wood fire food, this is your dream here.
 The Bird BBQ is a purveyor of wood-fired, smoked perfection.  
 They can smoke anything in their hand-built smoker, over wood of course.
 
-![smoked meats using wood at the bird bbq](/static/bird-bbq.jpg "The spread at The Bird BBQ")
+![](/images/bird-bbq.jpg)
 
 Using Brandenburg Oak, you can taste the heart that owner and head chef, Micha puts into his food.
