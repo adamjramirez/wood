@@ -1,18 +1,16 @@
 +++
 categories = ["Food", "Pizza", "Wood"]
 date = 2019-05-14T08:46:10Z
-description = "Authentic Neapolitan Pizza"
+description = "Wood-Fired Neopolitan Pizza"
 draft = true
-image = "images/Zola-logo.jpg"
+image = "images/prometeo.jpg"
 tags = ["Photos", "Food", "Wood", "Pizza"]
-title = "Zola's"
+title = "Prometeo"
 type = "post"
 
 +++
-Zola's is known for their outstanding pizza.
+Another true to tradition, Neapolitan pizza - Prometeo
 
-Staying true to their Neapolitan roots, they blast their pizza in a **_wood_**-**_fired_** Stefano Ferrara **_oven_** imported from Naples.
+Stefano Ferrara ovens are the tell-tale sign of a purist. Prometeo has imported their Ferrara from a small town near Napoli, called Quarto. It only burns wood.
 
-![wood fired oven at zola's pizza](/resources/zola-oven.jpg "Zola's wood fired oven")
-
-No wonder it tastes so good.
+It was a conscious choice to use wood over gas, although gas would have been easier.
