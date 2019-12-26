@@ -2,7 +2,7 @@
 categories = ["berlin", "bakery", "bread"]
 date = 2019-12-25T23:00:00Z
 description = "Wood Fired Baked Bread in Berlin Mitte"
-image = ""
+image = "/images/wiener-bread.jpg"
 main_image_gallery = ["/images/wiener-bread.jpg"]
 tags = ["food", "berlin", "bakery", "bread"]
 title = "Wiener Brot"
