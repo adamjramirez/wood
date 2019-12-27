@@ -6,8 +6,9 @@ theme = "parsa-hugo"
 title = "Restaurants Cooking With Wood"
 [[menu.main]]
 name = "Bakery"
+parent = "Cuisine"
 url = "https://naturallycooked.com/categories/bakery/"
-weight = 5
+weight = 3
 [[menu.main]]
 name = "Berlin"
 parent = "Cities"
