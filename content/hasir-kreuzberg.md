@@ -2,8 +2,7 @@
 categories = ["Berlin", "Turkish", "Wood", "Food"]
 date = 2019-12-26T23:00:00Z
 description = "Hasir Turkish Restaurant"
-draft = true
-image = ""
+image = "/images/hasir-front.jpg"
 tags = ["Berlin", "Food", "Wood", "Turkish"]
 title = "Hasir Kreuzberg"
 type = "post"
