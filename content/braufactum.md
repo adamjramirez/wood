@@ -1,11 +1,11 @@
 +++
-categories = []
+categories = ["Berlin", "German", "Meat", "Food"]
 date = 2019-12-26T23:00:00Z
 description = "Braufactum at Hausvogteiplatz"
 image = "/images/braufactum.jpg"
-tags = []
+tags = ["German", "Berlin", "Meat", "Food"]
 title = "Braufactum"
-type = ""
+type = "post"
 
 +++
 The former "Meisterstück" in Berlin at Hausvogteiplatz, were cooking sausages over an open fire.  
