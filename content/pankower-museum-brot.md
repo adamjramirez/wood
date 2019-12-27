@@ -2,7 +2,6 @@
 categories = ["Food", "Wood", "Berlin", "Bakery"]
 date = 2019-12-15T23:00:00Z
 description = "Wood Fired Baked Bread in Pankow"
-draft = true
 image = "/images/holzofenbrot.jpg"
 tags = ["Food", "Wood", "Bakery", "Berlin"]
 title = "Pankower Museum Brot"
