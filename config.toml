@@ -4,6 +4,29 @@ paginate = 6
 summaryLength = "10"
 theme = "parsa-hugo"
 title = "Restaurants Cooking With Wood"
+[[menu.main]]
+name = "Berlin"
+parent = "Cities"
+url = "https://naturallycooked.com/categories/berlin/"
+weight = 1
+[[menu.main]]
+name = "Cities"
+url = "#"
+weight = 4
+[[menu.main]]
+name = "Turkish"
+parent = "Cuisine"
+url = "https://naturallycooked.com/categories/turkish/"
+weight = 2
+[[menu.main]]
+name = "Pizza"
+parent = "Cuisine"
+url = "https://naturallycooked.com/categories/pizza/"
+weight = 1
+[[menu.main]]
+name = "Cuisine"
+url = "#"
+weight = 3
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 page = ["HTML"]
