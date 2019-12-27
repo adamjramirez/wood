@@ -24,5 +24,6 @@ fields:
   name: tags
   label: tags
 pages:
+- content/braufactum.md
 - content/hasir-kreuzberg.md
 - content/yeşil-firin.md
