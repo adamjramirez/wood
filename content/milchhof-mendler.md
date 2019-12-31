@@ -2,8 +2,7 @@
 categories = []
 date = 2019-12-03T23:00:00Z
 description = "Dairy Farm in Brandenburg with Wood-Fired Bakery"
-draft = true
-image = ""
+image = "/images/cropped-mendler_logo-3.png"
 tags = []
 title = "Milchhof Mendler"
 type = "post"
