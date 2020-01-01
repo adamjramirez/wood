@@ -12,7 +12,7 @@ author = "Naturally Cooked"
 authorImage = "images/banner-img.png"
 contactFormAction = "#"
 copyright = "Naturally Cooked"
-description = "This is meta description"
+description = "Highlighting restaurants around the world that make the conscious choice to cook with wood"
 googleAnalitycsID = "UA-155009140-1"
 home = "Home"
 homeLayoutToggle = false
@@ -30,7 +30,7 @@ accessToken = "4044026246.1677ed0.8896752506ed4402a0519d23b8f50a17"
 enable = false
 userID = "4044026246"
 [params.main]
-shortDescription = "A listing of restaurants that cook with any type of wood product"
+shortDescription = "A directory of restaurants that cook with wood"
 subtitle = "cooked with heart"
 title = "Eat food"
 [[params.plugins.css]]
