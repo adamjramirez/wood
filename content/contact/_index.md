@@ -9,7 +9,7 @@ menu:
     weight: 2
 
 ---
-Yes. We do want to hear from you?
+Yes. We do want to hear from you.
 
 Want to share with us a restaurant that cooks with wood?  
 Maybe we made a mistake in one of our posts?  
