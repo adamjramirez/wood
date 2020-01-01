@@ -1,5 +1,5 @@
 +++
-categories = ["Food", "wood", "bbq"]
+categories = ["Food", "wood", "bbq", "meat"]
 date = 2019-11-12T09:46:10Z
 description = "The Bird BBQ purity"
 image = "images/bird.jpg"
