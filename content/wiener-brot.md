@@ -9,10 +9,18 @@ title = "Wiener Brot"
 type = "post"
 
 +++
-Wiener Brot bakery in Berlin Mitte is the only (as far as I know) wood fire bakery in the city.
+Wiener Brot bakery in Berlin Mitte is the only (as far as I know) wood fire bakery in the city limits.
 
-Open by celebrity chef Sarah Wiener, the bakery boasts purely bio, yeast-free, wood fire baked goods.
+Opened by celebrity chef Sarah Wiener, the bakery boasts purely bio, sourdough, wood-fired baked bread.
 
 ![](/images/wiener.jpg)
 
-The crust and exterior of the baked goods are precisely why wood-fired ovens are preferred.
+The crust and exterior of the loaves are precisely why wood-fired ovens are preferred.
+
+The "Dinkel" loaf is highly recommended. A very airy and soft crumb, with the smooth flavor of Dinkel (spelt), and the incredible crispy, well-formed crust.
+
+![](/images/wiener-bread-1.jpg)
+
+**Wiener Brot Holzofenbäckerei  
+**Tucholskystraße 31  
+10117 Berlin
