@@ -5,15 +5,25 @@ summaryLength = "10"
 theme = "parsa-hugo"
 title = "Naturally Cooked - Restaurants Cooking With Wood"
 [[menu.main]]
+name = "Valencia"
+parent = "Cities"
+url = "https://naturallycooked.com/categories/valencia/"
+weight = 4
+[[menu.main]]
+name = "Spanish"
+parent = "Cuisine"
+url = "https://naturallycooked.com/categories/spanish/"
+weight = 4
+[[menu.main]]
 name = "Bucharest"
 parent = "Cities"
 url = "https://naturallycooked.com/categories/bucharest/"
-weight = 4
+weight = 5
 [[menu.main]]
 name = "Meat"
 parent = "Cuisine"
 url = "https://naturallycooked.com/categories/meat/"
-weight = 4
+weight = 5
 [[menu.main]]
 name = "Prague"
 parent = "Cities"
