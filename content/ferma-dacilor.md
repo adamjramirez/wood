@@ -1,5 +1,5 @@
 +++
-categories = ["Farm", "Meat", "Food", "Romania"]
+categories = ["Bucharest", "Farm", "Meat", "Food", "Romania"]
 date = 2020-01-01T23:00:00Z
 description = "Natural Farm in Romania"
 image = "/images/ferma1.jpg"
