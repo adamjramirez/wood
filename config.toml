@@ -5,6 +5,11 @@ summaryLength = "10"
 theme = "parsa-hugo"
 title = "Naturally Cooked - Restaurants Cooking With Wood"
 [[menu.main]]
+name = "Bucharest"
+parent = "Cities"
+url = "https://naturallycooked.com/categories/bucharest/"
+weight = 4
+[[menu.main]]
 name = "Meat"
 parent = "Cuisine"
 url = "https://naturallycooked.com/categories/meat/"
